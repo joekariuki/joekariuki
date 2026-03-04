@@ -34,3 +34,8 @@ I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.ai/), where we bu
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/joekariuki)
+
+## Connect
+[![X](https://img.shields.io/badge/@joekariuki-%23000000.svg?logo=X&logoColor=white)](https://x.com/joekariuki)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Joe_Kariuki-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/joe-kariuki/)
+[![GitHub](https://img.shields.io/badge/-joekariuki-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joekariuki)
