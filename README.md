@@ -10,7 +10,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
-[macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.ai/), where we build AI infrastructure and agents for payments companies.
 
