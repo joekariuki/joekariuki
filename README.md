@@ -24,12 +24,12 @@ I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.ai/), where we bu
 
 ### Personal
 
-- [MeetMinds](https://github.com/joekariuki/meetminds) — Custom AI agents with live voice calls, automatic transcripts, summaries, and searchable insights
+- [MeetMinds](https://github.com/joekariuki/meetminds) - Custom AI agents with live voice calls, automatic transcripts, summaries, and searchable insights
 - [Relay](https://github.com/joekariuki/relay) — Multilingual AI customer support agent for mobile money, with tool use, voice interaction via Whisper/TTS, and an LLM-as-judge eval framework
-- [NoticeFlow](https://github.com/joekariuki/noticeflow) — AI email pipeline that classifies incoming mail, routes it to the right department, extracts structured data from regulatory notices, and handles escalation for construction and real estate companies
-- [Deep Research](https://github.com/joekariuki/deep-research) — Multi-agent research system, similar to OpenAI's Deep Research
-- [StockPicker](https://github.com/joekariuki/stockpicker) — Multi-agent system that scans a sector for trending companies, researches them, and delivers a first-pass investment thesis to your inbox
-- [offerGPT](https://github.com/joekariuki/offerGPT) — AI-powered real estate offer generation
+- [NoticeFlow](https://github.com/joekariuki/noticeflow) - AI email pipeline that classifies incoming mail, routes it to the right department, extracts structured data from regulatory notices, and handles escalation for construction and real estate companies
+- [Deep Research](https://github.com/joekariuki/deep-research) - Multi-agent research system, similar to OpenAI's Deep Research
+- [StockPicker](https://github.com/joekariuki/stockpicker) - Multi-agent system that scans a sector for trending companies, researches them, and delivers a first-pass investment thesis to your inbox
+- [offerGPT](https://github.com/joekariuki/offerGPT) - AI-powered real estate offer generation
 
 ## GitHub Activity
 
