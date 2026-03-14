@@ -14,7 +14,7 @@
 
 I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.ai/), where we build AI infrastructure and agents for payments companies.
 
-## What I'm working on
+## Projects
 
 ### Devbrew
 
