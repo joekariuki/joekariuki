@@ -17,15 +17,15 @@ I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.ai/), where we bu
 ## Projects
 
 ### Devbrew
-
-- [Sentinel](https://github.com/devbrewai/sentinel) - AI fraud detection and sanctions screening for cross-border payments.
+- [Nova](https://github.com/devbrewai/nova) - AI support agent for neobanks, with RAG-grounded answers, tool use, and streaming responses
+- [Sentinel](https://github.com/devbrewai/sentinel) - AI fraud detection and sanctions screening for cross-border payments
 - [Veritas](https://github.com/devbrewai/veritas) - KYC/AML automation and risk scoring
-- [Meridian](https://github.com/devbrewai/meridian) - Multi-corridor liquidity forecasting engine for payments.
+- [Meridian](https://github.com/devbrewai/meridian) - Multi-corridor liquidity forecasting engine for payments
 
 ### Personal
 
 - [MeetMinds](https://github.com/joekariuki/meetminds) - Custom AI agents with live voice calls, automatic transcripts, summaries, and searchable insights
-- [Relay](https://github.com/joekariuki/relay) — Multilingual AI customer support agent for mobile money, with tool use, voice interaction via Whisper/TTS, and an LLM-as-judge eval framework
+- [Relay](https://github.com/joekariuki/relay) - Multilingual AI customer support agent for mobile money, with tool use, voice interaction via Whisper/TTS, and an LLM-as-judge eval framework
 - [NoticeFlow](https://github.com/joekariuki/noticeflow) - AI email pipeline that classifies incoming mail, routes it to the right department, extracts structured data from regulatory notices, and handles escalation for construction and real estate companies
 - [DeepResearch](https://github.com/joekariuki/deep-research) - Multi-agent research system, similar to OpenAI's Deep Research
 - [StockPicker](https://github.com/joekariuki/stockpicker) - Multi-agent system that scans a sector for trending companies, researches them, and delivers a first-pass investment thesis to your inbox
