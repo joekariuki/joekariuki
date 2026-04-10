@@ -14,7 +14,7 @@
 
 I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.ai/), where we build AI infrastructure and agents for payments companies.
 
-## Projects
+## Work
 
 ### Devbrew
 - [Nova](https://github.com/devbrewai/nova) - AI support agent for neobanks, with RAG-grounded answers, tool use, and streaming responses
