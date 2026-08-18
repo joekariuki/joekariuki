@@ -12,7 +12,7 @@
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.ai/), where we build AI infrastructure and agents for payments companies.
+I'm an AI/ML engineer and founder of [Devbrew](https://devbrew.co/), where we design and build custom AI and software products for founders and businesses in real estate.
 
 ## Work
 
